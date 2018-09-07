@@ -1,0 +1,8 @@
+model
+*.pickle
+*.npy
+.idea
+.ipynb_checkpoints
+practice
+testing-set.csv
+training-set.csv
